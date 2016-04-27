@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>signmeinas</name>
+	<displayName><![CDATA[Sign me in as]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Use this module to sign in as a customer.]]></description>
+	<author><![CDATA[Gary Constable]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Do you really want to uninstall?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
